@@ -1,2 +1,3 @@
 # style
-Stylesheets for @mimesia websites.
+
+Stylesheets for [Mimesia](https://mimesia.com/) websites.

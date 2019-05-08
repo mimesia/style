@@ -1,0 +1,10 @@
+{
+  "name": "@mimesia/style",
+  "version": "0.0.1",
+  "description": "Stylesheets for Mimesia websites.",
+  "main": "index.js",
+  "repository": "https://github.com/mimesia/style.git",
+  "author": "ACJ",
+  "license": "MIT",
+  "private": true
+}
